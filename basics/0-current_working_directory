@@ -1,2 +1,2 @@
 #!/bin/bash
-/home/vagrant/holbertonschool-shell/basics
+echo "/home/vagrant/holbertonschool-shell/basics"
