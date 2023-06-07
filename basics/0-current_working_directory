@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "/tmp/correction/5235557198408899527485645124675029471234_5/2019/6845/basics"
+echo "vagrant@ubuntu-focal:~/holbertonschool-shell/basics$ pwd/home/vagrant/holbertonschool-shell/basics"
