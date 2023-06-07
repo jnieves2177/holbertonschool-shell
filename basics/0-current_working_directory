@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "vagrant@ubuntu-focal:~/holbertonschool-shell/basics$ pwd/home/vagrant/holbertonschool-shell/basics"
+echo "pwd"
