@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R vincent:staff /dir0/dir1/dir2/my_dir 
+chown -hR vincent:staff .  
