@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=rwx dir0 dir1 dir2 hello
+chmod ugo=755 dir0 dir1 dir2
