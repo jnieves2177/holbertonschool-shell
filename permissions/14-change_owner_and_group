@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown user=vincent group=staff 
+sudo chown -R vincent:staff /home/user 
