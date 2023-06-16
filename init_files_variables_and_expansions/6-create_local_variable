@@ -1,2 +1,2 @@
 #!/bin/bash
-function BEST local var=School
+echo foo $BEST $School
